@@ -1,0 +1,6 @@
+td,th{
+    border: solid 1px;
+    border-color: gray;
+    padding: 15px;
+    text-align: center;
+}
